@@ -15,7 +15,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Animated.Text style={[styles.text, { opacity: fadeAnim }]}>
-        Welcome to the Animated App!
+        Welcome to the Animated App!Hello
       </Animated.Text>
     </View>
   );
